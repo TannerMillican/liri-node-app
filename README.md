@@ -7,6 +7,7 @@ From here, the user can type in node liri.js followed by either movie-this, conc
 Depending on the command given, the liri app will return specified information pertaining to the command and following input.
 
 An example of the movie-this command followed by the input Up is as follows:
-
+![](images/liri%20movie-this%20example.png)
 
 An example of the concert-this command followed by the input Dance Gavin Dance is as follows:
+![](images/liri%20concert-this%20example.png)
